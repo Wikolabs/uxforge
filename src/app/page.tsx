@@ -45,10 +45,20 @@
               </p>
               <div style={{ display: "flex", gap: 14, flexWrap: "wrap" }}>
                 <a
-                  href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer"
+                  href="https://calendly.com/wikolabs"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   style={{ background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 16, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 20px rgba(134,25,143,0.4)", display: "inline-block" }}
                 >
-                  Analyser mes retours utilisateurs →
+                  📅 Réserver un créneau →
+                </a>
+                <a
+                  href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20UXForge%20avec%20Wikolabs."
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ background: "#25d366", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 16, fontWeight: 700, textDecoration: "none", display: "inline-block" }}
+                >
+                  💬 WhatsApp →
                 </a>
                 <a href="#" style={{ padding: "14px 24px", borderRadius: 12, fontSize: 15, fontWeight: 600, color: "#7e22ce", textDecoration: "none", border: "2px solid #d8b4fe", display: "inline-block" }}>
                   Voir une démo
@@ -274,12 +284,24 @@
             <p style={{ fontSize: 17, color: "#4b5563", lineHeight: 1.7, marginBottom: 24 }}>
               Plus de listes de bugs interminables. UXForge génère un plan de correction priorisé avec un scoring effort / impact pour chaque recommandation — prêt à partager avec votre équipe produit.
             </p>
-            <a
-              href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer"
-              style={{ display: "inline-block", background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 15, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 16px rgba(134,25,143,0.35)" }}
-            >
-              Analyser mes retours utilisateurs →
-            </a>
+            <div style={{ display: "flex", gap: "12px", flexWrap: "wrap" }}>
+              <a
+                href="https://calendly.com/wikolabs"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ display: "inline-block", background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 15, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 16px rgba(134,25,143,0.35)" }}
+              >
+                📅 Réserver un créneau →
+              </a>
+              <a
+                href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20UXForge%20avec%20Wikolabs."
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ display: "inline-block", background: "#25d366", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 15, fontWeight: 700, textDecoration: "none" }}
+              >
+                💬 WhatsApp →
+              </a>
+            </div>
           </div>
           <div style={{ background: "#fdf4ff", borderRadius: 20, padding: 28, border: "1px solid #f3e8ff" }}>
             <p style={{ fontSize: 13, fontWeight: 700, color: "#7e22ce", textTransform: "uppercase", letterSpacing: 1, marginBottom: 16 }}>Plan de correction IA</p>
@@ -315,12 +337,24 @@
           <p style={{ fontSize: 18, color: "#f5d0fe", lineHeight: 1.7, marginBottom: 36 }}>
             Connectez vos sources de feedback et obtenez votre premier rapport d'analyse UX en moins de 10 minutes.
           </p>
-          <a
-            href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer"
-            style={{ display: "inline-block", background: "#fff", color: "#86198f", padding: "16px 36px", borderRadius: 14, fontSize: 17, fontWeight: 800, textDecoration: "none", boxShadow: "0 6px 32px rgba(0,0,0,0.2)" }}
-          >
-            Analyser mes retours utilisateurs →
-          </a>
+          <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
+            <a
+              href="https://calendly.com/wikolabs"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ display: "inline-block", background: "#fff", color: "#86198f", padding: "16px 36px", borderRadius: 14, fontSize: 17, fontWeight: 800, textDecoration: "none", boxShadow: "0 6px 32px rgba(0,0,0,0.2)" }}
+            >
+              📅 Réserver un créneau →
+            </a>
+            <a
+              href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20UXForge%20avec%20Wikolabs."
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ display: "inline-block", background: "#25d366", color: "#fff", padding: "16px 36px", borderRadius: 14, fontSize: 17, fontWeight: 800, textDecoration: "none", boxShadow: "0 6px 32px rgba(0,0,0,0.2)" }}
+            >
+              💬 WhatsApp →
+            </a>
+          </div>
           <p style={{ fontSize: 14, color: "#e9d5ff", marginTop: 16 }}>Sans engagement • Résultats en 10 minutes</p>
         </div>
       </section>
