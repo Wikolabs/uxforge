@@ -1,4 +1,4 @@
-export default function UXForgePage() {
+﻿export default function UXForgePage() {
   return (
     <div style={{ fontFamily: "var(--font-body, 'Quicksand', sans-serif)", background: "#fff", color: "#1a1a2e" }}>
 
@@ -18,7 +18,7 @@ export default function UXForgePage() {
               ))}
             </div>
             <a
-              href="mailto:hello@wikolabs.com?subject=UXForge — Demande de démo"
+              href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer"
               style={{ background: "#86198f", color: "#fff", padding: "9px 20px", borderRadius: 10, fontSize: 14, fontWeight: 700, textDecoration: "none", boxShadow: "0 2px 12px rgba(134,25,143,0.35)" }}
             >
               Demander une démo
@@ -45,7 +45,7 @@ export default function UXForgePage() {
               </p>
               <div style={{ display: "flex", gap: 14, flexWrap: "wrap" }}>
                 <a
-                  href="mailto:hello@wikolabs.com?subject=UXForge — Demande de démo"
+                  href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer"
                   style={{ background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 16, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 20px rgba(134,25,143,0.4)", display: "inline-block" }}
                 >
                   Analyser mes retours utilisateurs →
@@ -275,7 +275,7 @@ export default function UXForgePage() {
               Plus de listes de bugs interminables. UXForge génère un plan de correction priorisé avec un scoring effort / impact pour chaque recommandation — prêt à partager avec votre équipe produit.
             </p>
             <a
-              href="mailto:hello@wikolabs.com?subject=UXForge — Demande de démo"
+              href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-block", background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 15, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 16px rgba(134,25,143,0.35)" }}
             >
               Analyser mes retours utilisateurs →
@@ -316,7 +316,7 @@ export default function UXForgePage() {
             Connectez vos sources de feedback et obtenez votre premier rapport d'analyse UX en moins de 10 minutes.
           </p>
           <a
-            href="mailto:hello@wikolabs.com?subject=UXForge — Demande de démo"
+            href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer"
             style={{ display: "inline-block", background: "#fff", color: "#86198f", padding: "16px 36px", borderRadius: 14, fontSize: 17, fontWeight: 800, textDecoration: "none", boxShadow: "0 6px 32px rgba(0,0,0,0.2)" }}
           >
             Analyser mes retours utilisateurs →
