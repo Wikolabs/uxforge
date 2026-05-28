@@ -17,12 +17,10 @@
                 <a key={link} href="#" style={{ fontSize: 14, fontWeight: 600, color: "#6b21a8", textDecoration: "none", opacity: 0.8 }}>{link}</a>
               ))}
             </div>
-            <a
-              href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer"
-              style={{ background: "#86198f", color: "#fff", padding: "9px 20px", borderRadius: 10, fontSize: 14, fontWeight: 700, textDecoration: "none", boxShadow: "0 2px 12px rgba(134,25,143,0.35)" }}
-            >
+            <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button"
+            style={{ background: "#86198f", color: "#fff", padding: "9px 20px", borderRadius: 10, fontSize: 14, fontWeight: 700, textDecoration: "none", boxShadow: "0 2px 12px rgba(134,25,143,0.35)" }}>
               Demander une démo
-            </a>
+            </button>
           </div>
         </div>
       </nav>
@@ -44,14 +42,10 @@
                 UXForge agrège vos feedbacks utilisateurs toutes sources confondues, détecte automatiquement les friction points et génère des recommandations UX priorisées — sans effort manuel.
               </p>
               <div style={{ display: "flex", gap: 14, flexWrap: "wrap" }}>
-                <a
-                  href="https://calendly.com/wikolabs"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={{ background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 16, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 20px rgba(134,25,143,0.4)", display: "inline-block" }}
-                >
+                <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button"
+            style={{ background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 16, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 20px rgba(134,25,143,0.4)", display: "inline-block" }}>
                   📅 Réserver un créneau →
-                </a>
+                </button>
                 <a
                   href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20UXForge%20avec%20Wikolabs."
                   target="_blank"
@@ -285,14 +279,10 @@
               Plus de listes de bugs interminables. UXForge génère un plan de correction priorisé avec un scoring effort / impact pour chaque recommandation — prêt à partager avec votre équipe produit.
             </p>
             <div style={{ display: "flex", gap: "12px", flexWrap: "wrap" }}>
-              <a
-                href="https://calendly.com/wikolabs"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ display: "inline-block", background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 15, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 16px rgba(134,25,143,0.35)" }}
-              >
+              <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button"
+            style={{ display: "inline-block", background: "#86198f", color: "#fff", padding: "14px 28px", borderRadius: 12, fontSize: 15, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 16px rgba(134,25,143,0.35)" }}>
                 📅 Réserver un créneau →
-              </a>
+              </button>
               <a
                 href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20UXForge%20avec%20Wikolabs."
                 target="_blank"
@@ -338,14 +328,10 @@
             Connectez vos sources de feedback et obtenez votre premier rapport d'analyse UX en moins de 10 minutes.
           </p>
           <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
-            <a
-              href="https://calendly.com/wikolabs"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ display: "inline-block", background: "#fff", color: "#86198f", padding: "16px 36px", borderRadius: 14, fontSize: 17, fontWeight: 800, textDecoration: "none", boxShadow: "0 6px 32px rgba(0,0,0,0.2)" }}
-            >
+            <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button"
+            style={{ display: "inline-block", background: "#fff", color: "#86198f", padding: "16px 36px", borderRadius: 14, fontSize: 17, fontWeight: 800, textDecoration: "none", boxShadow: "0 6px 32px rgba(0,0,0,0.2)" }}>
               📅 Réserver un créneau →
-            </a>
+            </button>
             <a
               href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20UXForge%20avec%20Wikolabs."
               target="_blank"
