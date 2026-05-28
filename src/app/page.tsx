@@ -374,6 +374,13 @@
             ))}
           </div>
           <p style={{ fontSize: 13, color: "#6b7280", margin: 0 }}>© 2025 UXForge — Un produit Wikolabs</p>
+          <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "1rem", marginTop: "0.5rem", fontSize: "0.8rem" }}>
+            <a href="mailto:team@wikolabs.com" style={{ textDecoration: "none", color: "inherit" }}>team@wikolabs.com</a>
+            <span style={{ color: "#6b7280" }}>·</span>
+            <a href="tel:+261386626100" style={{ textDecoration: "none", color: "inherit" }}>+261 38 66 261 00</a>
+            <span style={{ color: "#6b7280" }}>·</span>
+            <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "inherit" }}>Prendre RDV</a>
+          </div>
         </div>
       </footer>
 
