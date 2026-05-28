@@ -379,7 +379,7 @@
             <span style={{ color: "#6b7280" }}>·</span>
             <a href="tel:+261386626100" style={{ textDecoration: "none", color: "inherit" }}>+261 38 66 261 00</a>
             <span style={{ color: "#6b7280" }}>·</span>
-            <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "inherit" }}>Prendre RDV</a>
+            <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "inherit" }}>Prendre RDV</button>
           </div>
         </div>
       </footer>
